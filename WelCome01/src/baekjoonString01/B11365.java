@@ -12,7 +12,6 @@ public class B11365 {
 		while(true) {
 			String S = br.readLine();
 			if (S.equals("END")) {
-				System.out.println("Sojin Armpit Cumshot!!");
 				break;
 			}else {
 				StringBuilder sb = new StringBuilder(S);
