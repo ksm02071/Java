@@ -22,5 +22,4 @@ public class B11365 {
 			
 		}
 	}
-
 }
