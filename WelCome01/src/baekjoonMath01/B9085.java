@@ -17,6 +17,7 @@ public class B9085 {
 		for (int i = 0 ; i < count ; i ++) {
 			int sum = 0;
 			int twoTestCase = scan.nextInt();
+			
 			for (int j = 0 ; j < twoTestCase ; j ++) {
 				
 				int a = scan.nextInt();
