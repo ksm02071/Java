@@ -18,7 +18,15 @@ public class B10821 {
 		array = S.split(",");
 		
 		for (String res : array) {
-			count ++;
+			// 예외처리 추가
+			try {
+				int change = Integer.parseInt(res);
+				count ++;
+			} catch (Exception e) {
+				System.out.println(e);
+				System.out.println(e.getMessage());
+			}
+			
 		}
 		
 		System.out.print(count);
