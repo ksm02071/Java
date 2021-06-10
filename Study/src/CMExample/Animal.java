@@ -1,4 +1,4 @@
-package classExample;
+package CMExample;
 
 public class Animal {
 	
